@@ -17,7 +17,7 @@ export default defineConfig(({ mode }) => ({
     host: true, // Listen on all addresses
     port: 10000, // Render expects port 10000
     allowedHosts: [
-      'trum-meme-giveaway.onrender.com', // Your specific domain
+      '.winelectricride.click', // Your specific domain
       '.onrender.com' // Allow all Render subdomains
     ],
   },
